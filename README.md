@@ -1,6 +1,6 @@
 # 👋 Olá, sou o Leonardo Gildo!
 
-## 💡 Analista de Dados | Desenvolvedor Python
+## 💡 Analista de Dados | Desenvolvedor Python | DBA Developer
 
 Apaixonado por transformar dados em **insights estratégicos** que impulsionam a tomada de decisões.
 
